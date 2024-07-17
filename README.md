@@ -44,8 +44,10 @@ Hola, soy Santiago Russo!
 ### 👨‍💻 Lenguajes de programación
 
 <p>
-    <a href="https://github.com/Santexx16"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Santexx16"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus"></a>
+    <a href="https://github.com/Marlo-Byte"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Marlo-Byte"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus"></a>
+    <a href="https://github.com/Marlo-Byte"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"></a>
+    <a href="https://github.com/Marlo-Byte"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
 
 ### 🗄️ Bases de datos y alojamiento en la nube
 
